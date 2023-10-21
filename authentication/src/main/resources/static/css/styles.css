@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.header {
+	width: 50%;
+	text-align: center;
+}
+
+.form-container {
+	display: flex;
+	justify-content: space-around;
+	width: 50%;
+}
